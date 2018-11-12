@@ -1,0 +1,16 @@
+Your results: 
+f(x)= sin(x)+cos(x) on <2.000000;5.000000> equal    -2.568031
+f(x)= sin(x)+cos(x) on <3.000000;2.000000> equal    +0.194332
+f(x)= sin(x)+cos(x) on <1.000000;1.000000> equal    +0.000014
+f(x)= sin(x)+cos(x) on <1.000000;0.000000> equal    -1.301155
+f(x)= sin(x)+cos(x) on <1.000000;4.000000> equal    -nan(ind)
+f(x)= sin(x)/x on <2.000000;5.000000> equal    -0.055482
+f(x)= sin(x)/x on <3.000000;2.000000> equal    -0.243240
+f(x)= sin(x)/x on <1.000000;1.000000> equal    +0.000008
+f(x)= sin(x)/x on <1.000000;0.000000> equal    -nan(ind)
+f(x)= sin(x)/x on <1.000000;4.000000> equal    -nan(ind)
+f(x)= sec(x)*x on <2.000000;5.000000> equal  +229.159672
+f(x)= sec(x)*x on <3.000000;2.000000> equal    +3.355065
+f(x)= sec(x)*x on <1.000000;1.000000> equal    +0.000019
+f(x)= sec(x)*x on <1.000000;0.000000> equal    -0.675516
+f(x)= sec(x)*x on <1.000000;4.000000> equal    -nan(ind)
